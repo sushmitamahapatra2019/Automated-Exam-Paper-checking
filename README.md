@@ -3,7 +3,11 @@
 
 Semantic analysis is a process of understanding the meaning of text.This repository contains the code to develop an automated exam paper checking system that uses semantic analysis to compare the expected answer and student response to evaluate student responses.
 
+## Features
 
+- The system will be capable of handling a wide range of exam questions and response types, including breif-type questions, multiple-choice questions, and short-answer questions.
+
+- The system will provide detailed evaluation with respect to each question and also provides the total score for the student response.
 
 
 ## Installation
@@ -63,12 +67,6 @@ Pass student answer and Expected answer to score() method which will return the 
 
 
 
-
-## Features
-
-- The system will be capable of handling a wide range of exam questions and response types, including breif-type questions, multiple-choice questions, and short-answer questions.
-
-- The system will provide detailed evaluation with respect to each question and also provides the total score for the student response.
 
 
 ## Tech Stack
